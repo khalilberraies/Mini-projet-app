@@ -1,10 +1,9 @@
-//import 'package:ai_project/back.dart';
+import 'package:ai_project/back.dart';
 import 'package:ai_project/login.dart';
 import 'package:ai_project/screens/trans.dart';
-//import 'package:ai_project/title2.dart';
+import 'package:ai_project/title2.dart';
 import 'package:flutter/material.dart';
 
-//ok
 class hh extends StatelessWidget {
   const hh({super.key});
 
