@@ -16,7 +16,7 @@ class _CameraLiveState extends State<CameraLive> {
     super.initState();
     // Initialize the controller with the video ID
     _controller = YoutubePlayerController(
-      initialVideoId: 'cEUAWlx4fO0', // Replace with your valid YouTube video ID
+      initialVideoId: 'BeTYTJ49NBY', // Replace with your valid YouTube video ID
       flags: const YoutubePlayerFlags(
         autoPlay: true,
         mute: false,
